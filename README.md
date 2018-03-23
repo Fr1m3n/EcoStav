@@ -1,2 +1,1 @@
-# EcoStav
-"EcoStav" server
+# Ecopolice
